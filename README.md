@@ -57,3 +57,9 @@ Type any text prompt and let **AI generate awesome images**, select your favorit
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+<img width="732" height="642" alt="Screenshot 2025-08-19 110003" src="https://github.com/user-attachments/assets/38cdd859-425e-432c-8b07-ca492904bec5" />
+
+
+<img width="765" height="983" alt="Screenshot 2025-08-19 105954" src="https://github.com/user-attachments/assets/b220aace-7891-45e9-b5dd-ea902f06596d" />
